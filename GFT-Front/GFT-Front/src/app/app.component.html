@@ -1,0 +1,36 @@
+<div>
+  <h1>Order</h1>
+  <label>
+    Time:
+    <select [(ngModel)]="time" name="time" required>
+      <option *ngFor="let t of times" [value]="t.name">
+        {{t.name}}
+      </option>
+    </select>
+    
+  </label>
+
+  <label>
+    Wish List:
+    <input [(ngModel)]="number" type="text" required/>
+  </label>
+</div>
+<div>
+  <h2>Your last order</h2>
+  <label>
+    Your Order:
+    <output id="OutputValue" name="number"></output>
+  </label>
+</div>
+<div>
+  <div>
+    <h3>Past Orders</h3>
+  </div>
+  <div class="grid-container">
+    <div *ngFor="let o of pastOrders" class="grid-item">{{ o }}</div>
+  </div>
+</div>
+
+<p>
+  <button (click)="requestOrder()">Take Order</button>
+</p>
