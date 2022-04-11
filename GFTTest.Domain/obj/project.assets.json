@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Domain\\GFTTest.Domain.csproj",
       "projectName": "GFTTest.Domain",
-      "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj",
+      "projectPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Domain\\GFTTest.Domain.csproj",
       "packagesPath": "C:\\Users\\gui_t\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\obj\\",
+      "outputPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\gui_t\\AppData\\Roaming\\NuGet\\NuGet.Config",

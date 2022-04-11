@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest\\GFTTest.csproj": {}
+    "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest\\GFTTest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Application\\GFTTest.Application.csproj": {
+    "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Application\\GFTTest.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Application\\GFTTest.Application.csproj",
+        "projectUniqueName": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Application\\GFTTest.Application.csproj",
         "projectName": "GFTTest.Application",
-        "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Application\\GFTTest.Application.csproj",
+        "projectPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Application\\GFTTest.Application.csproj",
         "packagesPath": "C:\\Users\\gui_t\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Application\\obj\\",
+        "outputPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gui_t\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,11 +28,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.DataTransfer\\GFTTest.DataTransfer.csproj": {
-                "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.DataTransfer\\GFTTest.DataTransfer.csproj"
+              "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.DataTransfer\\GFTTest.DataTransfer.csproj": {
+                "projectPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.DataTransfer\\GFTTest.DataTransfer.csproj"
               },
-              "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj": {
-                "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj"
+              "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Domain\\GFTTest.Domain.csproj": {
+                "projectPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Domain\\GFTTest.Domain.csproj"
               }
             }
           }
@@ -65,14 +65,14 @@
         }
       }
     },
-    "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.DataTransfer\\GFTTest.DataTransfer.csproj": {
+    "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.DataTransfer\\GFTTest.DataTransfer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.DataTransfer\\GFTTest.DataTransfer.csproj",
+        "projectUniqueName": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.DataTransfer\\GFTTest.DataTransfer.csproj",
         "projectName": "GFTTest.DataTransfer",
-        "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.DataTransfer\\GFTTest.DataTransfer.csproj",
+        "projectPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.DataTransfer\\GFTTest.DataTransfer.csproj",
         "packagesPath": "C:\\Users\\gui_t\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.DataTransfer\\obj\\",
+        "outputPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.DataTransfer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gui_t\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -89,8 +89,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj": {
-                "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj"
+              "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Domain\\GFTTest.Domain.csproj": {
+                "projectPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Domain\\GFTTest.Domain.csproj"
               }
             }
           }
@@ -123,14 +123,14 @@
         }
       }
     },
-    "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj": {
+    "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Domain\\GFTTest.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Domain\\GFTTest.Domain.csproj",
         "projectName": "GFTTest.Domain",
-        "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj",
+        "projectPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Domain\\GFTTest.Domain.csproj",
         "packagesPath": "C:\\Users\\gui_t\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\obj\\",
+        "outputPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gui_t\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -177,14 +177,14 @@
         }
       }
     },
-    "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Infra\\GFTTest.Infra.csproj": {
+    "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Infra\\GFTTest.Infra.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Infra\\GFTTest.Infra.csproj",
+        "projectUniqueName": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Infra\\GFTTest.Infra.csproj",
         "projectName": "GFTTest.Infra",
-        "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Infra\\GFTTest.Infra.csproj",
+        "projectPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Infra\\GFTTest.Infra.csproj",
         "packagesPath": "C:\\Users\\gui_t\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Infra\\obj\\",
+        "outputPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Infra\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gui_t\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -201,8 +201,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj": {
-                "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj"
+              "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Domain\\GFTTest.Domain.csproj": {
+                "projectPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Domain\\GFTTest.Domain.csproj"
               }
             }
           }
@@ -235,14 +235,14 @@
         }
       }
     },
-    "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.IoC\\GFTTest.IoC.csproj": {
+    "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.IoC\\GFTTest.IoC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.IoC\\GFTTest.IoC.csproj",
+        "projectUniqueName": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.IoC\\GFTTest.IoC.csproj",
         "projectName": "GFTTest.IoC",
-        "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.IoC\\GFTTest.IoC.csproj",
+        "projectPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.IoC\\GFTTest.IoC.csproj",
         "packagesPath": "C:\\Users\\gui_t\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.IoC\\obj\\",
+        "outputPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.IoC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gui_t\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -259,14 +259,14 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Application\\GFTTest.Application.csproj": {
-                "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Application\\GFTTest.Application.csproj"
+              "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Application\\GFTTest.Application.csproj": {
+                "projectPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Application\\GFTTest.Application.csproj"
               },
-              "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj": {
-                "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj"
+              "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Domain\\GFTTest.Domain.csproj": {
+                "projectPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Domain\\GFTTest.Domain.csproj"
               },
-              "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Infra\\GFTTest.Infra.csproj": {
-                "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Infra\\GFTTest.Infra.csproj"
+              "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Infra\\GFTTest.Infra.csproj": {
+                "projectPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Infra\\GFTTest.Infra.csproj"
               }
             }
           }
@@ -305,14 +305,14 @@
         }
       }
     },
-    "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest\\GFTTest.csproj": {
+    "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest\\GFTTest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest\\GFTTest.csproj",
+        "projectUniqueName": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest\\GFTTest.csproj",
         "projectName": "GFTTest",
-        "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest\\GFTTest.csproj",
+        "projectPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest\\GFTTest.csproj",
         "packagesPath": "C:\\Users\\gui_t\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest\\obj\\",
+        "outputPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\gui_t\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -329,11 +329,11 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Application\\GFTTest.Application.csproj": {
-                "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Application\\GFTTest.Application.csproj"
+              "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Application\\GFTTest.Application.csproj": {
+                "projectPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Application\\GFTTest.Application.csproj"
               },
-              "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.IoC\\GFTTest.IoC.csproj": {
-                "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.IoC\\GFTTest.IoC.csproj"
+              "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.IoC\\GFTTest.IoC.csproj": {
+                "projectPath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.IoC\\GFTTest.IoC.csproj"
               }
             }
           }

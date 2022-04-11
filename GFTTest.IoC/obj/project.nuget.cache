@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/9hXmQ69h4hchZOgEstQoyhlXIKzG1tRm+f2SiuPwPiVajcnrnKoCb29MNa0tVENmdD8qRI0j3c+JwnWiJkHpw==",
+  "dgSpecHash": "N+nSxFnkFDbySQQA5YmzC72GthlA/XwkzJGZf0pu1FrDQi0/Z2Il7Z0oav7K/S/MBBO4EvuzvP+cyFn9YOTpTQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.IoC\\GFTTest.IoC.csproj",
+  "projectFilePath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.IoC\\GFTTest.IoC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gui_t\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
   ],

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "W+axX9yVn25i+dDwtDp/5WKEbwhAy2GGZ7FHvRzg924QC1fqaDWj2hO3nFRqrnNUdaoHJlx1mtoVDh6uekqlDg==",
+  "dgSpecHash": "1+wamwUj2477KE05lfHXPw1B+4zqJzBHqyAbBBiBlkfny25UgWKt6EEWoMnKhxAip5hR99ivEGc/vYg4/F/m8Q==",
   "success": true,
-  "projectFilePath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Tests\\GFTTest.Tests.csproj",
+  "projectFilePath": "C:\\Users\\gui_t\\OneDrive\\Documentos\\GitHub\\GFT-Test\\GFTTest.Tests\\GFTTest.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\gui_t\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
     "C:\\Users\\gui_t\\.nuget\\packages\\coverlet.collector\\3.1.0\\coverlet.collector.3.1.0.nupkg.sha512",
