@@ -1,0 +1,15 @@
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Infra\bin\Debug\net6.0\GFTTest.Infra.deps.json
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Infra\bin\Debug\net6.0\GFTTest.Infra.dll
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Infra\bin\Debug\net6.0\GFTTest.Infra.pdb
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Infra\bin\Debug\net6.0\GFTTest.Domain.dll
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Infra\bin\Debug\net6.0\GFTTest.Domain.pdb
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Infra\obj\Debug\net6.0\GFTTest.Infra.csproj.AssemblyReference.cache
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Infra\obj\Debug\net6.0\GFTTest.Infra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Infra\obj\Debug\net6.0\GFTTest.Infra.AssemblyInfoInputs.cache
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Infra\obj\Debug\net6.0\GFTTest.Infra.AssemblyInfo.cs
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Infra\obj\Debug\net6.0\GFTTest.Infra.csproj.CoreCompileInputs.cache
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Infra\obj\Debug\net6.0\GFTTest.Infra.csproj.CopyComplete
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Infra\obj\Debug\net6.0\GFTTest.Infra.dll
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Infra\obj\Debug\net6.0\refint\GFTTest.Infra.dll
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Infra\obj\Debug\net6.0\GFTTest.Infra.pdb
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Infra\obj\Debug\net6.0\ref\GFTTest.Infra.dll

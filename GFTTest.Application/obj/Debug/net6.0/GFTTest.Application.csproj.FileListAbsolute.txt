@@ -1,0 +1,17 @@
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Application\bin\Debug\net6.0\GFTTest.Application.deps.json
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Application\bin\Debug\net6.0\GFTTest.Application.dll
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Application\bin\Debug\net6.0\GFTTest.Application.pdb
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Application\bin\Debug\net6.0\GFTTest.DataTransfer.dll
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Application\bin\Debug\net6.0\GFTTest.Domain.dll
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Application\bin\Debug\net6.0\GFTTest.DataTransfer.pdb
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Application\bin\Debug\net6.0\GFTTest.Domain.pdb
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Application\obj\Debug\net6.0\GFTTest.Application.csproj.AssemblyReference.cache
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Application\obj\Debug\net6.0\GFTTest.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Application\obj\Debug\net6.0\GFTTest.Application.AssemblyInfoInputs.cache
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Application\obj\Debug\net6.0\GFTTest.Application.AssemblyInfo.cs
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Application\obj\Debug\net6.0\GFTTest.Application.csproj.CoreCompileInputs.cache
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Application\obj\Debug\net6.0\GFTTest.Application.csproj.CopyComplete
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Application\obj\Debug\net6.0\GFTTest.Application.dll
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Application\obj\Debug\net6.0\refint\GFTTest.Application.dll
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Application\obj\Debug\net6.0\GFTTest.Application.pdb
+C:\Users\gui_t\source\repos\GFTTest\GFTTest.Application\obj\Debug\net6.0\ref\GFTTest.Application.dll

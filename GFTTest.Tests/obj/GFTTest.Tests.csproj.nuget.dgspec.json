@@ -1,0 +1,269 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Tests\\GFTTest.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Application\\GFTTest.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Application\\GFTTest.Application.csproj",
+        "projectName": "GFTTest.Application",
+        "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Application\\GFTTest.Application.csproj",
+        "packagesPath": "C:\\Users\\gui_t\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gui_t\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.DataTransfer\\GFTTest.DataTransfer.csproj": {
+                "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.DataTransfer\\GFTTest.DataTransfer.csproj"
+              },
+              "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj": {
+                "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.DataTransfer\\GFTTest.DataTransfer.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.DataTransfer\\GFTTest.DataTransfer.csproj",
+        "projectName": "GFTTest.DataTransfer",
+        "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.DataTransfer\\GFTTest.DataTransfer.csproj",
+        "packagesPath": "C:\\Users\\gui_t\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.DataTransfer\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gui_t\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj": {
+                "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj",
+        "projectName": "GFTTest.Domain",
+        "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj",
+        "packagesPath": "C:\\Users\\gui_t\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gui_t\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Tests\\GFTTest.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Tests\\GFTTest.Tests.csproj",
+        "projectName": "GFTTest.Tests",
+        "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Tests\\GFTTest.Tests.csproj",
+        "packagesPath": "C:\\Users\\gui_t\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\gui_t\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Application\\GFTTest.Application.csproj": {
+                "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Application\\GFTTest.Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.11.0, )"
+            },
+            "NBuilder": {
+              "target": "Package",
+              "version": "[6.1.0, )"
+            },
+            "NSubstitute": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[3.1.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.1, )"
+            },
+            "xunit.runner.visualstudio": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.4.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

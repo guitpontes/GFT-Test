@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "GFTTest.Infra/1.0.0": {
+        "dependencies": {
+          "GFTTest.Domain": "1.0.0"
+        },
+        "runtime": {
+          "GFTTest.Infra.dll": {}
+        }
+      },
+      "GFTTest.Domain/1.0.0": {
+        "runtime": {
+          "GFTTest.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GFTTest.Infra/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "GFTTest.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

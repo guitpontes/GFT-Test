@@ -1,0 +1,197 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "runtime": {
+          "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {}
+        },
+        "build": {
+          "buildTransitive/netcoreapp3.1/_._": {}
+        }
+      },
+      "GFTTest.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "GFTTest.DataTransfer": "1.0.0",
+          "GFTTest.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GFTTest.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GFTTest.Application.dll": {}
+        }
+      },
+      "GFTTest.DataTransfer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "GFTTest.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GFTTest.DataTransfer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GFTTest.DataTransfer.dll": {}
+        }
+      },
+      "GFTTest.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/GFTTest.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GFTTest.Domain.dll": {}
+        }
+      },
+      "GFTTest.Infra/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "GFTTest.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GFTTest.Infra.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GFTTest.Infra.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Microsoft.Extensions.DependencyInjection.Abstractions/6.0.0": {
+      "sha512": "xlzi2IYREJH3/m6+lUrQlujzX8wDitm4QGnUu6kUXTQAWPuZY8i+ticFJbzfqaetLA6KR/rO6Ew/HuYD+bxifg==",
+      "type": "package",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/6.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "Icon.png",
+        "LICENSE.TXT",
+        "THIRD-PARTY-NOTICES.TXT",
+        "buildTransitive/netcoreapp2.0/Microsoft.Extensions.DependencyInjection.Abstractions.targets",
+        "buildTransitive/netcoreapp3.1/_._",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net461/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/net6.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.dll",
+        "lib/netstandard2.1/Microsoft.Extensions.DependencyInjection.Abstractions.xml",
+        "microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+        "microsoft.extensions.dependencyinjection.abstractions.nuspec",
+        "useSharedDesignerContext.txt"
+      ]
+    },
+    "GFTTest.Application/1.0.0": {
+      "type": "project",
+      "path": "../GFTTest.Application/GFTTest.Application.csproj",
+      "msbuildProject": "../GFTTest.Application/GFTTest.Application.csproj"
+    },
+    "GFTTest.DataTransfer/1.0.0": {
+      "type": "project",
+      "path": "../GFTTest.DataTransfer/GFTTest.DataTransfer.csproj",
+      "msbuildProject": "../GFTTest.DataTransfer/GFTTest.DataTransfer.csproj"
+    },
+    "GFTTest.Domain/1.0.0": {
+      "type": "project",
+      "path": "../GFTTest.Domain/GFTTest.Domain.csproj",
+      "msbuildProject": "../GFTTest.Domain/GFTTest.Domain.csproj"
+    },
+    "GFTTest.Infra/1.0.0": {
+      "type": "project",
+      "path": "../GFTTest.Infra/GFTTest.Infra.csproj",
+      "msbuildProject": "../GFTTest.Infra/GFTTest.Infra.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "GFTTest.Application >= 1.0.0",
+      "GFTTest.Domain >= 1.0.0",
+      "GFTTest.Infra >= 1.0.0",
+      "Microsoft.Extensions.DependencyInjection.Abstractions >= 6.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\gui_t\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.IoC\\GFTTest.IoC.csproj",
+      "projectName": "GFTTest.IoC",
+      "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.IoC\\GFTTest.IoC.csproj",
+      "packagesPath": "C:\\Users\\gui_t\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.IoC\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\gui_t\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Application\\GFTTest.Application.csproj": {
+              "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Application\\GFTTest.Application.csproj"
+            },
+            "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj": {
+              "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Domain\\GFTTest.Domain.csproj"
+            },
+            "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Infra\\GFTTest.Infra.csproj": {
+              "projectPath": "C:\\Users\\gui_t\\source\\repos\\GFTTest\\GFTTest.Infra\\GFTTest.Infra.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "dependencies": {
+          "Microsoft.Extensions.DependencyInjection.Abstractions": {
+            "target": "Package",
+            "version": "[6.0.0, )"
+          }
+        },
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
