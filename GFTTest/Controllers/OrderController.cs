@@ -18,16 +18,6 @@ namespace GFTTest.Controllers
         }
 
         /// <summary>
-        /// TODO Method since don't have DB connection
-        /// </summary>
-        /// <returns></returns>
-        [HttpGet]
-        public ActionResult<List<OrderResponse>> Get()
-        {
-            return orderAppService.GetAllOrders();
-        }
-
-        /// <summary>
         /// Make an order
         /// </summary>
         /// <param name="request">Time must be morning or nigth and order between 1 - 4</param>
